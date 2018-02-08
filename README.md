@@ -43,7 +43,7 @@ Seleccionar la opción 4 Publicar Link.
 Escribir el link deseado.
 
 # Creditos
-02842553 Juan Antonio Sanchez Sustaita / Jose Manuel
+02842553 Juan Antonio Sanchez Sustaita / Jose Manuel Lopez Lujan
 
 # Licencia
 El código está disponible bajo la licencia MIT
